@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9f3a90bfd9d0f6e9432a58c66bb67f52",
+    "revision": "e1fd01ea947240686620682472fac5a9",
     "url": "https://iamsurajx.github.io/csb-fgx3x4/index.html"
   },
   {
-    "revision": "f09c10aaeebf328fb12a",
+    "revision": "017e2ce1a90141626185",
     "url": "https://iamsurajx.github.io/csb-fgx3x4/static/css/main.96f7de54.chunk.css"
   },
   {
-    "revision": "fe35aadc6c92e24bf767",
-    "url": "https://iamsurajx.github.io/csb-fgx3x4/static/js/2.d1d1db0e.chunk.js"
+    "revision": "ffed8fa42dd44c633b5b",
+    "url": "https://iamsurajx.github.io/csb-fgx3x4/static/js/2.265da3ee.chunk.js"
   },
   {
-    "revision": "f09c10aaeebf328fb12a",
-    "url": "https://iamsurajx.github.io/csb-fgx3x4/static/js/main.a3073a94.chunk.js"
+    "revision": "017e2ce1a90141626185",
+    "url": "https://iamsurajx.github.io/csb-fgx3x4/static/js/main.4fb144ff.chunk.js"
   },
   {
     "revision": "2a7f41f8a7bce5e618c5",
